@@ -4,7 +4,7 @@
 - 🌍 Location: Moncton, Canada
 - ✉️ Contact: elhadjibrahimaditdt@gmail.com
 - 🧠 Skills: I'm an open-source enthusiast with experience in projects involving Python (PyTorch,TensorFlow), C++, SQL, Java.
-- 🌱 Current Focus: I’m currently focusing on ML development and research, coding optimisation, problem solving and expanding my knowledge in computer science
+- 🌱 Current Focus: I’m currently focusing on software development, cybersecurity, ML development and research — with a strong interest in database design, optimization, and management.
 - 👯 Collaborations: I’m actively seeking interesting projects where I can apply and enhance my skills, and continue learning.
 - 🤝 Opportunities: I’m eager to explore opportunities that will allow me to expand my potential and contribute to innovative projects.
 
