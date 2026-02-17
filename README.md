@@ -1,15 +1,41 @@
-# **👋 Hi! My name is Elhadj Ibrahima dit Dieudonné Traoré**
-**I am currently pursuing a Bachelor's degree in Computer Science at Université de Moncton.**
+# 👋 Hi, I'm Elhadj 
 
-- 🌍 Location: Moncton, Canada
-- ✉️ Contact: elhadjibrahimaditdt@gmail.com
-- 🧠 Skills: I'm an open-source enthusiast with experience in projects involving **C++, Python (PyTorch,TensorFlow), SQL, Java, HTML, CSS, JavaScript**
-- 🌱 Current Focus: I’m currently focusing on software development, cybersecurity, ML development and research — with a strong interest in database design, optimization, and management.
-- 👯 Collaborations: I’m actively seeking interesting projects where I can apply and enhance my skills, and continue learning.
-- 🤝 Opportunities: I’m eager to explore opportunities that will allow me to expand my potential and contribute to innovative projects.
+I’m a final-year Co-op**Applied computer Science** student at Université de Moncton, focused on **data engineering, applied machine learning, and backend development**.
 
+- 🌍 Location: Moncton, Canada  
+- ✉️ Email: [elhadjibrahimaditdt@gmail.com](mailto:elhadjibrahimaditdt@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/elhadjdt](https://www.linkedin.com/in/elhadjdt)  
 
-<!---
-ElhadjDt/ElhadjDt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🔧 Tech focus
+
+I enjoy building reliable data pipelines and backend services:
+
+- **Languages:** Python, C++, SQL  
+- **Data & ML:** pandas, NumPy, scikit-learn, PyTorch / TensorFlow  
+- **Data Engineering:** relational databases (PostgreSQL, Oracle), ETL, data modeling, APIs  
+- **Backend / Web:** REST APIs (FastAPI / Flask, Crow-C++), basic frontends (HTML, CSS, JavaScript)  
+- **Tools:** Git, Linux, Docker (basics)  
+
+Right now, I’m focused on developing strong expertise in data engineering / data science (**ETL orchestration**,,) and **production-ready ML / analytics**.
+
+---
+
+### 🎯 What I’m working on
+
+- Designing and implementing **data pipelines** and **APIs** that are easy to maintain and extend.  
+- Building projects that combine **data engineering**, **data analysis**, and **ML** in realistic scenarios.  
+- Learning best practices around **testing**, **documentation**, and **deployment** for data-intensive systems.  
+
+---
+
+### 🤝 Opportunities & collaboration
+
+I’m looking for opportunities (internships, junior roles, and collaborations) where I can:
+
+- Work on **data engineering / data science** problems with real impact.  
+- Help design and optimize **data workflows, schemas, and services**.  
+- Contribute to teams that care about **code quality, documentation, and learning**.  
+
+If you’re working on data platforms, ETL, or applied ML and think I could help, feel free to reach out!
