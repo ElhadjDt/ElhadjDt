@@ -1,7 +1,7 @@
 # Hi, I'm Elhadj
 
-I enjoy solving problems and building systems. My work sits at the intersection of data engineering, machine learning, and application development around foundation models.
+I enjoy solving problems and building practical systems at the intersection of data engineering, machine learning, and backend development.
 
-I like creating practical solutions that help me in my daily life and that can be useful to the people around me.
+My current focus is on designing scalable data workflows, developing robust applications, and exploring how foundation models can be integrated into real-world systems.
 
-**Interests:** data engineering, ML development, evaluation and integration of foundation‑model in systems, backend design.
+**Interests:** data engineering, machine learning, backend systems, evaluation and integration of foundation models.
