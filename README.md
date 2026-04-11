@@ -1,6 +1,6 @@
 # Hi, I'm Elhadj
 
-I enjoy solving problems and building practical systems.
+I enjoy solving problems and building systems.
 
 My current focus is on designing scalable data workflows, developing robust applications, and exploring how foundation models can be integrated into real-world systems.
 
