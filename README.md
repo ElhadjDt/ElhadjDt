@@ -1,6 +1,6 @@
 ## Hi, I'm Elhadj
 
-Final-year Applied Computer Science student.
+Final-year Applied Computer Science (BSc).
 
 I enjoy building solutions to real-world problems — sometimes for others, often for myself.  
 What drives me is developing the ability to design, build, and deliver systems that are actually usable.
