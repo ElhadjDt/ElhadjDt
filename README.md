@@ -1,6 +1,7 @@
 ## Hi, I'm Elhadj 
 
 Applied Computer Science (BSc) — final year.  
+
 I work on data engineering, AI workflows, and tools that make development faster and more reliable.
 
 ### What I’m into
