@@ -8,7 +8,8 @@ I work on data engineering, AI workflows, and tools that make development faster
 - Scalable data pipelines  
 - Machine learning & model integration  
 - Agent-based applications and RAG systems  
-- Local models, embeddings, and privacy-first AI  
+- Local models, embeddings, and privacy-first AI
+- Model calibration & optimization (tuning multi-parameter systems to match real-world distributions)
 - Problem solving
 
 ### How I work
